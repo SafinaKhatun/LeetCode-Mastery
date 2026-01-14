@@ -11,4 +11,8 @@ My curated collection of LeetCode DSA solutions in python with detailed explanat
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
