@@ -21,6 +21,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | ------- |
 | [0175-combine-two-tables](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0177-nth-highest-salary) |
 ## Linked List
 |  |
 | ------- |
