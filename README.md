@@ -31,6 +31,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0055-jump-game](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0063-unique-paths-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0053-maximum-subarray](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0063-unique-paths-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -204,6 +206,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0063-unique-paths-ii) |
 ## Simulation
 |  |
 | ------- |
