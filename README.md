@@ -86,6 +86,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0069-sqrtx](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0096-unique-binary-search-trees) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +172,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0072-edit-distance](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0096-unique-binary-search-trees) |
 ## Manacher
 |  |
 | ------- |
@@ -303,4 +305,16 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
