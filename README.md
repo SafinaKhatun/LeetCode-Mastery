@@ -41,6 +41,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0075-sort-colors](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,6 +185,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0016-3sum-closest](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0088-merge-sorted-array) |
 ## Stack
 |  |
 | ------- |
