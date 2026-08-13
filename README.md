@@ -34,6 +34,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0063-unique-paths-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0068-text-justification) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0038-count-and-say](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +223,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0054-spiral-matrix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0068-text-justification) |
 ## Combinatorics
 |  |
 | ------- |
