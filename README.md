@@ -100,6 +100,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0058-length-of-last-word](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +170,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
