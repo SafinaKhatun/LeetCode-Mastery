@@ -30,6 +30,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0054-spiral-matrix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,8 +197,10 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
