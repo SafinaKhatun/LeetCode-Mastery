@@ -62,6 +62,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0013-roman-to-integer](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,6 +89,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0022-generate-parentheses) |
 ## Manacher
 |  |
 | ------- |
@@ -114,4 +116,9 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
