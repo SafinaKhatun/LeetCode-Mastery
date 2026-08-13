@@ -35,6 +35,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0064-minimum-path-sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +135,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0075-sort-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +169,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0015-3sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
@@ -244,4 +247,12 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
