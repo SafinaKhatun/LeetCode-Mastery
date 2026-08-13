@@ -18,6 +18,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0015-3sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0016-3sum-closest](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
