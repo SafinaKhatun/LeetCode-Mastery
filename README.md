@@ -15,6 +15,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0004-median-of-two-sorted-arrays](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +91,8 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
