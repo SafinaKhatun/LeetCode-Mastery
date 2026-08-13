@@ -29,6 +29,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0053-maximum-subarray](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0057-insert-interval) |
 ## Hash Table
 |  |
 | ------- |
