@@ -27,6 +27,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0039-combination-sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,4 +187,12 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
