@@ -36,6 +36,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0066-plus-one](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +190,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0039-combination-sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -222,6 +224,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
