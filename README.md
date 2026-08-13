@@ -62,6 +62,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0024-swap-nodes-in-pairs](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +142,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0031-next-permutation](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
