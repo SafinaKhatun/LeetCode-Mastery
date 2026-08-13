@@ -28,6 +28,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0040-combination-sum-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0022-generate-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0055-jump-game) |
 ## Manacher
 |  |
 | ------- |
@@ -128,6 +130,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
