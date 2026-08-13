@@ -300,6 +300,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0079-word-search](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0100-same-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -315,6 +316,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0096-unique-binary-search-trees](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -327,4 +329,9 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0096-unique-binary-search-trees](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
