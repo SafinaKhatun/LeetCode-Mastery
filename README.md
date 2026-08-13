@@ -40,6 +40,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0079-word-search](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0085-maximal-rectangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0064-minimum-path-sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0085-maximal-rectangle) |
 ## Manacher
 |  |
 | ------- |
@@ -186,6 +188,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0032-longest-valid-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0085-maximal-rectangle) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -243,6 +246,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0063-unique-paths-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -278,6 +282,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
