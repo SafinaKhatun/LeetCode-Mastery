@@ -26,6 +26,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0035-search-insert-position](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +118,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0010-regular-expression-matching](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
