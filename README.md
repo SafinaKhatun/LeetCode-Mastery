@@ -69,6 +69,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0060-permutation-sequence](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | [0032-longest-valid-parentheses](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -205,6 +207,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -217,6 +220,7 @@ This repository serves as a centralized hub for all my LeetCode submissions. It 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/SafinaKhatun/Leetcode-Data-Structures-and-Algorithms-Python/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
